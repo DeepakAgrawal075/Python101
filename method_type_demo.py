@@ -13,6 +13,7 @@ class MyClass:
     def static_method():
         return 'Static method called.'
 
+
 # Create an instance of MyClass
 obj = MyClass()
 
